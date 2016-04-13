@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Random Stuff Random Guy]]></title>
         <description><![CDATA[Random Stuff Random Guy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rsrg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 21:11:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 21:22:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rsrg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this place?]]></title>
             <description><![CDATA[<article><h1>What is this place?</h1><p>This is a random place from a random guy with random passions.</p></article>]]></description>
-            <link>undefinedwhat-is-this-place/index.html</link>
+            <link>https://thegrid.ai/rsrg/what-is-this-place/index.html</link>
             <guid isPermaLink="false">d791d2d9-c6fb-4e36-b1a6-eaf5ef9be930</guid>
             <pubDate>Wed, 13 Apr 2016 21:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google's New 'Hive-Mind' Robots Learn From One Another]]></title>
+            <description><![CDATA[<article><h1>Google's New 'Hive-Mind' Robots Learn From One Another</h1><p>Google’s New ‘Hive-Mind’ Robots Learn From One Another</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2ee80034de676b941bd19b2a74838d8b7d29ffb.png"></article>]]></description>
+            <link>https://thegrid.ai/rsrg/googles-new-hive-mind-robots-learn-from-one-another/index.html</link>
+            <guid isPermaLink="false">c5824f14-a768-4d32-a3fa-1ab52cbf1439</guid>
+            <pubDate>Wed, 13 Apr 2016 21:22:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
