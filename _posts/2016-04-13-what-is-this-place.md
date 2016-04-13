@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: This is a random place from a random guy with random passions.
-datePublished: '2016-04-13T22:10:06.410Z'
-dateModified: '2016-04-13T22:09:54.994Z'
+description: 'I personally see this website as my bookmark of interests, however if you took all this trouble to get here, I hope you will enjoy reading the posts here, and that you will learn something as I did :)'
+datePublished: '2016-04-13T22:44:46.091Z'
+dateModified: '2016-04-13T22:44:45.570Z'
 title: What is this place?
 author: []
 sourcePath: _posts/2016-04-13-what-is-this-place.md
@@ -22,7 +22,7 @@ url: what-is-this-place/index.html
 _type: Article
 
 ---
-This is a random place from a random guy with random passions.
+Welcome! This is a random place from a random guy with random interests.
 
-Welcome! I hope you will enjoy reading my posts and reposts!
+I personally see this website as my bookmark of interests, however if you took all this trouble to get here, I hope you will enjoy reading the posts here, and that you will learn something as I did :)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fb8fe0c-5afd-4cf4-9629-04bfff22b85a.jpg)
