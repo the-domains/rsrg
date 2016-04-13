@@ -4,7 +4,7 @@
         <description><![CDATA[Random Stuff Random Guy]]></description>
         <link>https://thegrid.ai/rsrg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 21:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 21:22:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rsrg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this place?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rsrg/what-is-this-place/index.html</link>
             <guid isPermaLink="false">d791d2d9-c6fb-4e36-b1a6-eaf5ef9be930</guid>
             <pubDate>Wed, 13 Apr 2016 21:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[These Tiny Robots Can Build Anything, Including Their Own Tools]]></title>
+            <description><![CDATA[<article><h1>These Tiny Robots Can Build Anything, Including Their Own Tools</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9eccf275fd1672cc6736146a7ccd6065e65b3878.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rsrg/these-tiny-robots-can-build-anything-including-their-own-to/index.html</link>
+            <guid isPermaLink="false">f8fca9ed-f320-4fa7-970f-02e49e9f8190</guid>
+            <pubDate>Wed, 13 Apr 2016 21:22:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Print Friendly & PDF]]></title>
