@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Random Stuff Random Guy]]></title>
+        <description><![CDATA[Random Stuff Random Guy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 23:12:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is this place?]]></title>
+            <description><![CDATA[<article><h1>What is this place?</h1><p> Welcome! This is a random place from a random guy with its own interests.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fb8fe0c-5afd-4cf4-9629-04bfff22b85a.jpg"></article>]]></description>
+            <link>undefinedwhat-is-this-place/index.html</link>
+            <guid isPermaLink="false">d791d2d9-c6fb-4e36-b1a6-eaf5ef9be930</guid>
+            <pubDate>Wed, 13 Apr 2016 23:11:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
