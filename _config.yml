@@ -2,12 +2,13 @@ name: RSRG
 favicon: null
 layout_spectrum: 0.9925430759321898
 typography_spectrum: 0.5551879305858165
+title: Random Stuff Random Guy
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-76348078-1
   facebook: null
   twitter: null
 opengraph:
