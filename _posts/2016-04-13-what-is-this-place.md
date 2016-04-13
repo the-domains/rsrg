@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "\_Welcome! This is a random place from a random guy with its own interests."
-datePublished: '2016-04-13T23:15:10.139Z'
-dateModified: '2016-04-13T23:15:02.145Z'
+description: 'Welcome to my feed of interests!'
+datePublished: '2016-04-13T23:23:52.972Z'
+dateModified: '2016-04-13T23:23:50.422Z'
 title: What is this place?
 author: []
 sourcePath: _posts/2016-04-13-what-is-this-place.md
