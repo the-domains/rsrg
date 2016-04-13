@@ -4,7 +4,7 @@
         <description><![CDATA[Random Stuff Random Guy]]></description>
         <link>https://thegrid.ai/rsrg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 21:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 21:22:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rsrg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this place?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rsrg/what-is-this-place/index.html</link>
             <guid isPermaLink="false">d791d2d9-c6fb-4e36-b1a6-eaf5ef9be930</guid>
             <pubDate>Wed, 13 Apr 2016 21:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Print Friendly & PDF]]></title>
+            <description><![CDATA[<article><h1>Print Friendly & PDF</h1><p>Make a Printer Friendly & PDF version of any webpage.</p></article>]]></description>
+            <link>http://www.printfriendly.com/</link>
+            <guid isPermaLink="false">1d3801bb-8866-42fd-b308-dae13c876753</guid>
+            <pubDate>Wed, 13 Apr 2016 21:22:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google's New 'Hive-Mind' Robots Learn From One Another]]></title>
