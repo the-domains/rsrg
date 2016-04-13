@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: This is a random place from a random guy with random passions.
-datePublished: '2016-04-13T22:02:40.191Z'
-dateModified: '2016-04-13T22:01:30.765Z'
+datePublished: '2016-04-13T22:04:10.759Z'
+dateModified: '2016-04-13T22:02:45.883Z'
 title: What is this place?
 author: []
+sourcePath: _posts/2016-04-13-what-is-this-place.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-what-is-this-place.md
-published: true
 url: what-is-this-place/index.html
 _type: Article
 
