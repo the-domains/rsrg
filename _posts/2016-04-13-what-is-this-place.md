@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
-description: "\_Welcome! This is a random place from a random guy with random interests."
-datePublished: '2016-04-13T22:55:50.639Z'
-dateModified: '2016-04-13T22:55:27.330Z'
+description: "\_Welcome! This is a random place from a random guy with its own interests."
+datePublished: '2016-04-13T23:04:53.328Z'
+dateModified: '2016-04-13T23:04:52.909Z'
 title: What is this place?
 author: []
 sourcePath: _posts/2016-04-13-what-is-this-place.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: what-is-this-place/index.html
-_type: Article
+_type: Blurb
 
 ---
 Welcome! This is a random place from a random guy with its own interests.
