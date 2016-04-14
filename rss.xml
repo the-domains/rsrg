@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's bookmarks]]></description>
         <link>http://feed.romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 13:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 16:10:20 GMT</lastBuildDate>
         <atom:link href="http://feed.romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this place?]]></title>
@@ -12,6 +12,13 @@
             <link>http://feed.romainclaret.com/what-is-this-place/index.html</link>
             <guid isPermaLink="false">d791d2d9-c6fb-4e36-b1a6-eaf5ef9be930</guid>
             <pubDate>Wed, 13 Apr 2016 23:23:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PostHuman The Movie - Animated short film directed by Cole Drumb]]></title>
+            <description><![CDATA[<article><h1>PostHuman The Movie - Animated short film directed by Cole Drumb</h1><p>Animated sci-fi thriller short film featuring the voice of Tricia Helfer (Battlestar Galactica). Watch the award winning video by Seattle based Colliculi Productions. A genius hacker and his dog help an enigmatic young woman to free the remaining test subjects of a black ops ESP lab.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0ec59e485c4c03534dfba4f5e6cbb7353917e4b.png"></article>]]></description>
+            <link>http://posthumanthemovie.com/</link>
+            <guid isPermaLink="false">47d4481a-bcb7-43f4-ae64-fd31f60a6efa</guid>
+            <pubDate>Thu, 14 Apr 2016 16:10:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Alphabet Going to Build a City?]]></title>
