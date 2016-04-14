@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's bookmarks]]></description>
         <link>http://feed.romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 13:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 13:32:41 GMT</lastBuildDate>
         <atom:link href="http://feed.romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this place?]]></title>
@@ -12,6 +12,13 @@
             <link>http://feed.romainclaret.com/what-is-this-place/index.html</link>
             <guid isPermaLink="false">d791d2d9-c6fb-4e36-b1a6-eaf5ef9be930</guid>
             <pubDate>Wed, 13 Apr 2016 23:23:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Alphabet Going to Build a City?]]></title>
+            <description><![CDATA[<article><h1>Is Alphabet Going to Build a City?</h1><p>In its first year of existence, the Alphabet-owned "urban innovation company" Sidewalk Labs has been working on products to improve WiFi access and traffic flows in cities. But there's signs it has skyscraper-sized ambitions that lean towards building a city from the ground up.Sidewalk CEO Dan ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c83897c90ec690b9893be37c62dd31eab186e10f.jpg"></article>]]></description>
+            <link>https://www.theinformation.com/is-alphabet-going-to-build-a-city</link>
+            <guid isPermaLink="false">f44f4045-b176-459e-9b24-86997e877468</guid>
+            <pubDate>Thu, 14 Apr 2016 13:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft's New AI Writes Captions For Your Photos-and It's Pretty Good]]></title>
