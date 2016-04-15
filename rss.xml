@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's bookmarks]]></description>
         <link>http://feed.romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 22:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 08:47:45 GMT</lastBuildDate>
         <atom:link href="http://feed.romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this place?]]></title>
@@ -12,6 +12,13 @@
             <link>http://feed.romainclaret.com/what-is-this-place/index.html</link>
             <guid isPermaLink="false">d791d2d9-c6fb-4e36-b1a6-eaf5ef9be930</guid>
             <pubDate>Wed, 13 Apr 2016 23:23:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CaptionBot is Microsoft's latest AI experiment - and at least it isn't racist]]></title>
+            <description><![CDATA[<article><h1>CaptionBot is Microsoft's latest AI experiment - and at least it isn't racist</h1><p>After the somewhat awkward experience last month of having an AI Twitter bot go full-on racist in a few hours once it interacted with humans, Microsoft have released a new AI experiment on to the internet - CaptionBot.</p><img src="https://i.guim.co.uk/img/media/5ffecb325399ab2cca35ed9d419c8c4e04c737dd/0_109_967_580/967.jpg?w=1200&q=55&auto=format&usm=12&fit=max&s=b80044d6e92f18b90f33ff76e12ba075"></article>]]></description>
+            <link>https://www.theguardian.com/technology/2016/apr/14/captionbot-microsoft-latest-ai-experiment-it-isnt-racist</link>
+            <guid isPermaLink="false">be34d53e-f1e5-4409-97b7-c7260c1c862c</guid>
+            <pubDate>Fri, 15 Apr 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why You Should Encrypt Everything and the Reason You Probably Don't]]></title>
