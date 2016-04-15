@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's bookmarks]]></description>
         <link>http://feed.romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 08:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 12:54:52 GMT</lastBuildDate>
         <atom:link href="http://feed.romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this place?]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 13 Apr 2016 23:23:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pollenwarndienst: Free pollen app]]></title>
+            <description><![CDATA[<article><h1>Pollenwarndienst: Free pollen app</h1><p>Our free pollen app provides current values for all of Austria and Germany, and all useful information about pollen allergy when you are on the go.To download the app to your Android or iOS device, follow the instructions below.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34d724290cfa1fd75144779270e27c32b0546187.png"></article>]]></description>
+            <link>https://www.polleninfo.org/CH/fr/free-pollen-app.html</link>
+            <guid isPermaLink="false">1b103f57-83f7-4717-b189-b9185e69c2b6</guid>
+            <pubDate>Fri, 15 Apr 2016 12:54:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CaptionBot is Microsoft's latest AI experiment - and at least it isn't racist]]></title>
-            <description><![CDATA[<article><h1>CaptionBot is Microsoft's latest AI experiment - and at least it isn't racist</h1><p>After the somewhat awkward experience last month of having an AI Twitter bot go full-on racist in a few hours once it interacted with humans, Microsoft have released a new AI experiment on to the internet - CaptionBot.</p><img src="https://i.guim.co.uk/img/media/5ffecb325399ab2cca35ed9d419c8c4e04c737dd/0_109_967_580/967.jpg?w=1200&q=55&auto=format&usm=12&fit=max&s=b80044d6e92f18b90f33ff76e12ba075"></article>]]></description>
+            <description><![CDATA[<article><h1>CaptionBot is Microsoft's latest AI experiment - and at least it isn't racist</h1><p>After the somewhat awkward experience last month of having an AI Twitter bot go full-on racist in a few hours once it interacted with humans, Microsoft have released a new AI experiment on to the internet - CaptionBot.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c794a125cec4360313dcaf20f7aa762e83c5cfa1.jpg"></article>]]></description>
             <link>https://www.theguardian.com/technology/2016/apr/14/captionbot-microsoft-latest-ai-experiment-it-isnt-racist</link>
             <guid isPermaLink="false">be34d53e-f1e5-4409-97b7-c7260c1c862c</guid>
             <pubDate>Fri, 15 Apr 2016 08:46:51 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://observer.com/2016/04/elon-musk-says-spacex-city-on-mars-will-be-announced-in-guadalajara-mexico/</link>
             <guid isPermaLink="false">7b521efb-1de5-4ae0-ac0e-1eeeda8eb16f</guid>
             <pubDate>Thu, 14 Apr 2016 12:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50 Ways Happier, Healthier and More Successful People Live on Their Own Terms]]></title>
-            <description><![CDATA[<article><h1>50 Ways Happier, Healthier and More Successful People Live on Their Own Terms</h1><p>Although people think they perform better on caffeine, the truth is, they really don't. Actually, we've become so dependent on caffeine that we use it to simply get back to our status quo. When we're off it, we underperform and become incapable. Isn't this absurd?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4f85b3c6b8265a25783a3b8d50d8468e1e12c64.jpg"></article>]]></description>
-            <link>http://observer.com/2015/11/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms/</link>
-            <guid isPermaLink="false">ec0c8523-3185-4fb9-8778-99b7e7d6f88f</guid>
-            <pubDate>Thu, 14 Apr 2016 12:16:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
