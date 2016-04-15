@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's bookmarks]]></description>
         <link>http://feed.romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 13:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 13:17:20 GMT</lastBuildDate>
         <atom:link href="http://feed.romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this place?]]></title>
@@ -12,13 +12,6 @@
             <link>http://feed.romainclaret.com/what-is-this-place/index.html</link>
             <guid isPermaLink="false">d791d2d9-c6fb-4e36-b1a6-eaf5ef9be930</guid>
             <pubDate>Wed, 13 Apr 2016 23:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digital innovation is 'key to securing London's future' - Imperial expert]]></title>
-            <description><![CDATA[<article><h1>Digital innovation is 'key to securing London's future' - Imperial expert</h1><p>London must harness the potential of smart technologies to meet the future needs of its citizens, a major new report shows. Penned by the Smart London Board - which is chaired by Imperial's Vice President (Innovation), Professor David Gann CBE - the report says that London must capitalise on its digital expertise to tackle challenges associated with the city's bourgeoning population - set to exceed 10 million people by 2036.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2bb5626396b59055d1dee9d8e72c687483d0525.jpg"></article>]]></description>
-            <link>http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_13-4-2016-18-7-27</link>
-            <guid isPermaLink="false">f4e76af4-5e22-4763-96eb-b1143d1600a2</guid>
-            <pubDate>Fri, 15 Apr 2016 13:16:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Multibillion-euro innovation hub slammed by auditors]]></title>
@@ -75,6 +68,13 @@
             <link>http://bigthink.com/connected/encryption-privacy-signal?utm_campaign=Echobox&amp;utm_medium=Social&amp;utm_source=Facebook#link_time=1460485997</link>
             <guid isPermaLink="false">0bd7a3ce-7051-4105-8db4-cde766baa941</guid>
             <pubDate>Thu, 14 Apr 2016 22:38:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loteria TVC]]></title>
+            <description><![CDATA[<article><h1>Loteria TVC</h1><p>Agency - Leo Burnett Madrid Spanish Production and Post Production Company - Blur Films Directed by Against All Odds Production Company - Passion Pictures CG Production - Milford Creative Studio</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d912e73f7d399057263dd26405a24cbdf3b81aef.jpg"></article>]]></description>
+            <link>https://vimeo.com/146138253</link>
+            <guid isPermaLink="false">823de84b-b574-4a80-9c5c-acaf6e18718c</guid>
+            <pubDate>Thu, 14 Apr 2016 16:26:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
