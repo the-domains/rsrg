@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's bookmarks]]></description>
         <link>http://feed.romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 13:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 13:17:31 GMT</lastBuildDate>
         <atom:link href="http://feed.romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this place?]]></title>
@@ -12,6 +12,20 @@
             <link>http://feed.romainclaret.com/what-is-this-place/index.html</link>
             <guid isPermaLink="false">d791d2d9-c6fb-4e36-b1a6-eaf5ef9be930</guid>
             <pubDate>Wed, 13 Apr 2016 23:23:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artificial Intelligence Can Now Design Realistic Video and Game Imagery]]></title>
+            <description><![CDATA[<article><h1>Artificial Intelligence Can Now Design Realistic Video and Game Imagery</h1><p>A remarkable machine-learning trick that cleans up pixelated videos and photographs can automatically generate high-quality computer-game graphics. If you close your eyes and imagine a brick wall, you can probably come up with a pretty good mental image. After seeing many such walls, your brain knows what one should look like.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd6cbb1054c3eae1b1cce01e9db9962e4f6f98f8.jpg"></article>]]></description>
+            <link>https://www.technologyreview.com/s/601258/artificial-intelligence-can-now-design-realistic-video-and-game-imagery/</link>
+            <guid isPermaLink="false">ec29d54e-4e85-42eb-8ea5-9780729868df</guid>
+            <pubDate>Fri, 15 Apr 2016 13:16:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can Rush predict who's got Zika or Ebola? Artificial intelligence]]></title>
+            <description><![CDATA[<article><h1>How can Rush predict who's got Zika or Ebola? Artificial intelligence</h1><p>A patient walks into the emergency department at Rush University Medical Center with a fever and bloodshot eyes. In days of yore, doctors would have to exhaustthe obvious possibilities - like a flu or allergic reaction - before finally figuring a patient was suffering from Zika virus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15ab79a632ca41946982c8e55d80b2f038c669e8.jpg"></article>]]></description>
+            <link>http://www.chicagotribune.com/bluesky/originals/ct-rush-guardian-rumoro-artificial-intelligence-bsi-20160415-story.html</link>
+            <guid isPermaLink="false">6809c5d7-fcc5-4b7b-b3bb-750f4207ddf6</guid>
+            <pubDate>Fri, 15 Apr 2016 13:16:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Artificial intelligence startup DigitalGenius raises $4M to make customer service agents superhuman]]></title>
@@ -61,20 +75,6 @@
             <link>http://feed.romainclaret.com/working-for-yourself-is-not-freedom-life-learning/index.html</link>
             <guid isPermaLink="false">ebf352cf-51f7-4b5e-8e66-9de86a34fbc3</guid>
             <pubDate>Fri, 15 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pollenwarndienst: Free pollen app]]></title>
-            <description><![CDATA[<article><h1>Pollenwarndienst: Free pollen app</h1><p>Our free pollen app provides current values for all of Austria and Germany, and all useful information about pollen allergy when you are on the go.To download the app to your Android or iOS device, follow the instructions below.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34d724290cfa1fd75144779270e27c32b0546187.png"></article>]]></description>
-            <link>https://www.polleninfo.org/CH/fr/free-pollen-app.html</link>
-            <guid isPermaLink="false">1b103f57-83f7-4717-b189-b9185e69c2b6</guid>
-            <pubDate>Fri, 15 Apr 2016 12:54:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CaptionBot is Microsoft's latest AI experiment - and at least it isn't racist]]></title>
-            <description><![CDATA[<article><h1>CaptionBot is Microsoft's latest AI experiment - and at least it isn't racist</h1><p>After the somewhat awkward experience last month of having an AI Twitter bot go full-on racist in a few hours once it interacted with humans, Microsoft have released a new AI experiment on to the internet - CaptionBot.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c794a125cec4360313dcaf20f7aa762e83c5cfa1.jpg"></article>]]></description>
-            <link>https://www.theguardian.com/technology/2016/apr/14/captionbot-microsoft-latest-ai-experiment-it-isnt-racist</link>
-            <guid isPermaLink="false">be34d53e-f1e5-4409-97b7-c7260c1c862c</guid>
-            <pubDate>Fri, 15 Apr 2016 08:46:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
